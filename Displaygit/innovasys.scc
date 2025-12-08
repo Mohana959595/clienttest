@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SourceControlConnection>
+  <Provider>GIT</Provider>
+  <RemoteMoniker>../$/</RemoteMoniker>
+  <ProviderProperties>
+    <Branch>main</Branch>
+    <ServerUrl>https://github.com/Mohana959595/clienttest</ServerUrl>
+    <RepositoryFolder>D:\hsdx\installation file\1908\hub\testresult</RepositoryFolder>
+    <RepositoryDirectoryInfo>D:\hsdx\installation file\1908\hub\testresult</RepositoryDirectoryInfo>
+    <AuthorEmail>mdass@rsicms.com</AuthorEmail>
+    <AuthorName>Mohana Priya Dass</AuthorName>
+    <UserName>Mohana959595</UserName>
+    <Password>SFMyAEANAwCuciO9cH0dp4AuocNi37N85kHQKmZ7BT8EIYG+imyKV3LKZ8oGJAdenBKlAm6eQ0rvrKA8urxferCdojpm/5LWSBv8l3PWb6uwpEAiuRm5tJ2ywgUxRWiZwcsbuBddyFCs9Ed55X/6tYLEdKKGsWTog8qMCzZpyfQJZkTkvFjaRsioYCRSjTt42Rzz4tnOTmzOa9tGdEvQcJ5bnmvvnRFSRd3Bs0faSUB7JeXTfQSyO9LymuFIRVOELByhFGAqPd0=</Password>
+    <SupplyUserCredentials>true</SupplyUserCredentials>
+  </ProviderProperties>
+</SourceControlConnection>
